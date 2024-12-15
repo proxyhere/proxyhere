@@ -1,10 +1,6 @@
-<img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="25"> 𝚆𝙴𝙻𝙲𝙾𝙼𝙴 𝚃𝙾 Rokon  GitHub 𝙿𝚁𝙾𝙵𝙸𝙻𝙴&nbsp; <img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="25">
 
 
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Neuton&size=25&color=30FF40&background=000000&center=true&vCenter=true&width=360&height=60&lines=Hello+World%2C+I'm+RUKUNUZZAMAN+Here;Mobile+Apps+Developer;Currently+Studying+Computer+Science;You+Can+Follow+My+GitHub;)](https://git.io/typing-svg)
-
-<img src="https://github.com/MRVIVEK-CODER/Decompiler/blob/main/106824690-8dd73a00-66ad-11eb-89e2-53e13ac6f594.gif" alt="" border="0" />
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Neuton&size=25&color=30FF40&background=000000&center=true&vCenter=true&width=360&height=60&lines=Hello%2C+I'M+RUKUNUZZAMAN;MOBILE+APPS+DEVELOPER;STUDYING+COMPUTER+SCIENCE;YOU+CAN+FOLLOW+MY+PROFILE;)](https://git.io/typing-svg)
 
 ![Alt text](https://github.com/MRVIVEK-CODER/MRVIVEK-CODER/raw/main/md7Oqrf.gif)](https://rishavchanda.io)
 
@@ -32,7 +28,7 @@
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
-- ☞︎︎︎ 𝙴𝙳𝚄𝙲𝙰𝚃𝙸𝙾𝙽 :- NON-GRADUATE OF CS STUDENT
+- ☞︎︎︎ 𝙴𝙳𝚄𝙲𝙰𝚃𝙸𝙾𝙽 :-  STUDENT OF COMPUTER SCIENCE
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
